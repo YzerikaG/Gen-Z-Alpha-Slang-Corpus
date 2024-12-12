@@ -32,10 +32,12 @@ To make your experience even better, we’ve added two handy functions:
 ### How to Use  
 
 1. Locate the Corpus File:
-   - The TSV file containing the GenZ and Alpha Slang Corpus is stored in [your Google Drive](https://drive.google.com/drive/folders/1PKc7MNt4hzV7Nr7tiSjwPm5SM9U-I9gp?usp=sharing). Make sure you have access to the drive folder.
+   - The TSV file containing the GenZ and Alpha Slang Corpus is stored in [your Google Drive](https://drive.google.com/drive/folders/1PKc7MNt4hzV7Nr7tiSjwPm5SM9U-I9gp?usp=sharing).
+   - Make sure you have access to the drive folder by adding them as shortcut to your MyDrive.
+   
 
 2. Access the Functions:
-   - All additional functions, including the Word Network, Search Engine, and others, are stored in the folder - Gen Slang. You can run or explore these functions directly from this folder.
+   - All additional functions, including the Word Network, Search Engine, and others, are stored in the folder - _Gen Slang_. You can run or explore these functions directly from this folder.
 
 3. *Run the Functions*  
    - Use the *Word Network* to visualize connections:
