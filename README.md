@@ -32,7 +32,7 @@ To make your experience even better, we’ve added two handy functions:
 ### How to Use  
 
 1. Locate the Corpus File:
-   - The TSV file containing the GenZ and Alpha Slang Corpus is stored in [your Google Drive](https://drive.google.com/drive/folders/1PKc7MNt4hzV7Nr7tiSjwPm5SM9U-I9gp?usp=sharing).
+   - The TSV file containing the GenZ and Alpha Slang Corpus is stored in [Gen Slang Lib](https://drive.google.com/drive/folders/1PKc7MNt4hzV7Nr7tiSjwPm5SM9U-I9gp?usp=sharing).
    - Make sure you have access to the drive folder by adding them as shortcut to your MyDrive.
    
 
