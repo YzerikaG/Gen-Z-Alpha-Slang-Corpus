@@ -31,17 +31,19 @@ To make your experience even better, we’ve added two handy functions:
 
 ### How to Use  
 
-1. *Access the Corpus*  
-   - The corpus is stored in [insert file format or platform, e.g., CSV, Google Colab, etc.].  
-   - Simply open it with your preferred text editor, spreadsheet app, or IDE.  
+1. Locate the Corpus File:
+   - The TSV file containing the GenZ and Alpha Slang Corpus is stored in [your Google Drive](https://drive.google.com/drive/folders/1PKc7MNt4hzV7Nr7tiSjwPm5SM9U-I9gp?usp=sharing). Make sure you have access to the drive folder.
 
-2. *Run the Functions*  
+2. Access the Functions:
+   - All additional functions, including the Word Network, Search Engine, and others, are stored in the folder - Gen Slang. You can run or explore these functions directly from this folder.
+
+3. *Run the Functions*  
    - Use the *Word Network* to visualize connections:
      - Open the provided notebook or script file.
      - Run the visualization cell to generate an interactive word map.  
    - Use the *Search Engine* for quick lookups:
      - Input a term in the search bar and hit enter to view results.  
 
-3. *Explore and Learn*  
+4. *Explore and Learn*  
    - Browse through the corpus to learn new slang and phrases.  
    - Check out synonyms and origins to deepen your understanding.  
